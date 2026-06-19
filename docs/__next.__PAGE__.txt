@@ -1,14 +1,14 @@
 1:"$Sreact.fragment"
-2:I[13474,["/_next/static/chunks/2qmj1kt5_2rg8.js","/_next/static/chunks/14mumt5_n0xhi.js","/_next/static/chunks/30vrx6xibkfqq.js"],"Navigation"]
-3:I[31287,["/_next/static/chunks/2qmj1kt5_2rg8.js","/_next/static/chunks/14mumt5_n0xhi.js","/_next/static/chunks/30vrx6xibkfqq.js"],"Hero"]
-4:I[48032,["/_next/static/chunks/2qmj1kt5_2rg8.js","/_next/static/chunks/14mumt5_n0xhi.js","/_next/static/chunks/30vrx6xibkfqq.js"],"About"]
-5:I[20444,["/_next/static/chunks/2qmj1kt5_2rg8.js","/_next/static/chunks/14mumt5_n0xhi.js","/_next/static/chunks/30vrx6xibkfqq.js"],"Experience"]
-6:I[15289,["/_next/static/chunks/2qmj1kt5_2rg8.js","/_next/static/chunks/14mumt5_n0xhi.js","/_next/static/chunks/30vrx6xibkfqq.js"],"Skills"]
-7:I[66844,["/_next/static/chunks/2qmj1kt5_2rg8.js","/_next/static/chunks/14mumt5_n0xhi.js","/_next/static/chunks/30vrx6xibkfqq.js"],"Projects"]
-8:I[65471,["/_next/static/chunks/2qmj1kt5_2rg8.js","/_next/static/chunks/14mumt5_n0xhi.js","/_next/static/chunks/30vrx6xibkfqq.js"],"Certifications"]
-9:I[57841,["/_next/static/chunks/2qmj1kt5_2rg8.js","/_next/static/chunks/14mumt5_n0xhi.js","/_next/static/chunks/30vrx6xibkfqq.js"],"Contact"]
-a:I[41451,["/_next/static/chunks/2qmj1kt5_2rg8.js","/_next/static/chunks/14mumt5_n0xhi.js","/_next/static/chunks/30vrx6xibkfqq.js"],"Footer"]
-b:I[97367,["/_next/static/chunks/2qmj1kt5_2rg8.js","/_next/static/chunks/14mumt5_n0xhi.js"],"OutletBoundary"]
+2:I[13474,["/bio-wisnu/_next/static/chunks/2qmj1kt5_2rg8.js","/bio-wisnu/_next/static/chunks/14mumt5_n0xhi.js","/bio-wisnu/_next/static/chunks/39i3ckr-_8i6p.js"],"Navigation"]
+3:I[31287,["/bio-wisnu/_next/static/chunks/2qmj1kt5_2rg8.js","/bio-wisnu/_next/static/chunks/14mumt5_n0xhi.js","/bio-wisnu/_next/static/chunks/39i3ckr-_8i6p.js"],"Hero"]
+4:I[48032,["/bio-wisnu/_next/static/chunks/2qmj1kt5_2rg8.js","/bio-wisnu/_next/static/chunks/14mumt5_n0xhi.js","/bio-wisnu/_next/static/chunks/39i3ckr-_8i6p.js"],"About"]
+5:I[20444,["/bio-wisnu/_next/static/chunks/2qmj1kt5_2rg8.js","/bio-wisnu/_next/static/chunks/14mumt5_n0xhi.js","/bio-wisnu/_next/static/chunks/39i3ckr-_8i6p.js"],"Experience"]
+6:I[15289,["/bio-wisnu/_next/static/chunks/2qmj1kt5_2rg8.js","/bio-wisnu/_next/static/chunks/14mumt5_n0xhi.js","/bio-wisnu/_next/static/chunks/39i3ckr-_8i6p.js"],"Skills"]
+7:I[66844,["/bio-wisnu/_next/static/chunks/2qmj1kt5_2rg8.js","/bio-wisnu/_next/static/chunks/14mumt5_n0xhi.js","/bio-wisnu/_next/static/chunks/39i3ckr-_8i6p.js"],"Projects"]
+8:I[65471,["/bio-wisnu/_next/static/chunks/2qmj1kt5_2rg8.js","/bio-wisnu/_next/static/chunks/14mumt5_n0xhi.js","/bio-wisnu/_next/static/chunks/39i3ckr-_8i6p.js"],"Certifications"]
+9:I[57841,["/bio-wisnu/_next/static/chunks/2qmj1kt5_2rg8.js","/bio-wisnu/_next/static/chunks/14mumt5_n0xhi.js","/bio-wisnu/_next/static/chunks/39i3ckr-_8i6p.js"],"Contact"]
+a:I[41451,["/bio-wisnu/_next/static/chunks/2qmj1kt5_2rg8.js","/bio-wisnu/_next/static/chunks/14mumt5_n0xhi.js","/bio-wisnu/_next/static/chunks/39i3ckr-_8i6p.js"],"Footer"]
+b:I[97367,["/bio-wisnu/_next/static/chunks/2qmj1kt5_2rg8.js","/bio-wisnu/_next/static/chunks/14mumt5_n0xhi.js"],"OutletBoundary"]
 c:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}]]}],["$","$La",null,{}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/30vrx6xibkfqq.js","async":true}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"I0YLg15enPlFx9ezwXxUL"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}]]}],["$","$La",null,{}]]}],[["$","script","script-0",{"src":"/bio-wisnu/_next/static/chunks/39i3ckr-_8i6p.js","async":true}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"MrLLt91gzOW0xsCg-GniT"}
 d:null
