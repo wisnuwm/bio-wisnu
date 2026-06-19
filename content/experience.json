@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "company": "Akar Inti Teknologi",
+    "position": "Sr. QA Automation",
+    "period": "June 2025 - Present",
+    "duration": "Present",
+    "location": "Jakarta Metropolitan Area, Indonesia",
+    "responsibilities": [
+      "Build Automation Architecture",
+      "Develop test automation frameworks using Robot Framework and Python",
+      "Implement CI/CD pipelines for enhanced testing efficiency",
+      "Lead automation strategy and best practices",
+      "Collaborate with development teams to ensure quality standards"
+    ],
+    "achievements": [
+      "Architected scalable automation framework from scratch",
+      "Integrated automated testing into CI/CD pipeline",
+      "Reduced testing time through strategic automation implementation"
+    ],
+    "technologies": ["Robot Framework", "Python", "CI/CD", "Automation Architecture"]
+  },
+  {
+    "id": 2,
+    "company": "INDODAX - Indonesia Digital Asset Exchange",
+    "position": "Software QA Engineer",
+    "period": "July 2024 - June 2025",
+    "duration": "1 year",
+    "location": "Jakarta, Indonesia",
+    "responsibilities": [
+      "Develop and maintain automated test scripts using Katalon and Robot Framework",
+      "Implement CI/CD pipelines for automated testing",
+      "Perform manual testing for critical features",
+      "Collaborate with development team for quality assurance"
+    ],
+    "achievements": [
+      "Successfully implemented automated testing for trading platform",
+      "Improved test coverage through strategic automation",
+      "Reduced regression testing time significantly"
+    ],
+    "technologies": ["Katalon", "Robot Framework", "CI/CD", "API Testing"]
+  },
+  {
+    "id": 3,
+    "company": "Alterra Academy",
+    "position": "Quality Engineer Mentor (Immersive Program)",
+    "period": "June 2022 - July 2024",
+    "duration": "2 years",
+    "location": "Indonesia",
+    "responsibilities": [
+      "Share knowledge about Software Quality Assurance",
+      "Teach API concepts and API Testing methodologies",
+      "Teach how to create test cases for API Testing",
+      "Instruct on using Postman for API Testing",
+      "Teach Automation API Testing concepts",
+      "Guide students in Automation API Testing using Cucumber Serenity BDD with Rest Assured"
+    ],
+    "achievements": [
+      "Mentored numerous students in QA engineering",
+      "Developed comprehensive curriculum for API testing",
+      "Successfully guided students through automation testing journey"
+    ],
+    "technologies": ["API Testing", "Postman", "Cucumber", "Rest Assured", "Serenity BDD", "Teaching"]
+  },
+  {
+    "id": 4,
+    "company": "Evisi Informatika Jakarta",
+    "position": "Software Quality Assurance Engineer",
+    "period": "February 2021 - June 2024",
+    "duration": "3 years",
+    "location": "Jakarta, Indonesia",
+    "responsibilities": [
+      "Perform web manual testing",
+      "Create test scenarios and execute test cases",
+      "Create automation based on test scenarios and execute test automation",
+      "Review results based on execution of test automation",
+      "Develop automation using Cucumber + Selenium Java",
+      "Integrate Cucumber Selenium Java to Jira Xray",
+      "Perform maintenance of test automation",
+      "Conduct API Testing using Swagger and Postman",
+      "Ensure products developed meet acceptance criteria"
+    ],
+    "achievements": [
+      "Built comprehensive automation framework with Cucumber and Selenium",
+      "Integrated automation with Jira Xray for test management",
+      "Implemented API testing using Postman and Swagger",
+      "Ensured high-quality software delivery"
+    ],
+    "technologies": ["Cucumber", "Selenium Java", "Jira Xray", "Postman", "Swagger", "API Testing", "Manual Testing"]
+  },
+  {
+    "id": 5,
+    "company": "dojobox.id",
+    "position": "Quality Assurance Mentor",
+    "period": "November 2021 - February 2022",
+    "duration": "4 months",
+    "location": "Indonesia",
+    "responsibilities": [
+      "Teach basics of Gherkin syntax",
+      "Instruct on mobile and website automation using Robot Framework"
+    ],
+    "achievements": [
+      "Successfully mentored students in automation testing",
+      "Developed learning materials for Gherkin and Robot Framework"
+    ],
+    "technologies": ["Robot Framework", "Gherkin", "Teaching", "Mobile Automation", "Web Automation"]
+  }
+]

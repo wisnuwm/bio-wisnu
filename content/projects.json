@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "title": "BincangQA",
+    "subtitle": "QA Knowledge Sharing Platform",
+    "description": "A platform for sharing knowledge with the QA community through tutorials, articles, and discussions.",
+    "contributions": [
+      "Created educational content about QA and testing",
+      "Built QA community on YouTube",
+      "Wrote articles about testing best practices"
+    ],
+    "technology": ["WordPress", "YouTube", "Content Creation"],
+    "links": {
+      "demo": "https://www.bincangqa.tech/home/",
+      "youtube": "https://www.youtube.com/c/BincangQA"
+    },
+    "featured": true,
+    "category": "Community"
+  },
+  {
+    "id": 2,
+    "title": "Test Automation Framework",
+    "subtitle": "Enterprise Application",
+    "description": "Comprehensive testing automation framework using Robot Framework and Python.",
+    "contributions": [
+      "Designed automation framework architecture",
+      "Integrated with CI/CD pipeline",
+      "Created reusable test components"
+    ],
+    "technology": ["Robot Framework", "Python", "Jenkins", "Selenium"],
+    "links": {},
+    "featured": true,
+    "category": "Automation"
+  },
+  {
+    "id": 3,
+    "title": "API Testing Suite",
+    "subtitle": "Rest Assured & BDD",
+    "description": "API testing automation using Cucumber Serenity BDD and Rest Assured.",
+    "contributions": [
+      "Created test scenarios for API endpoints",
+      "Implemented BDD with Cucumber",
+      "Setup reporting with Serenity"
+    ],
+    "technology": ["Java", "Rest Assured", "Cucumber", "Serenity BDD"],
+    "links": {},
+    "featured": true,
+    "category": "API Testing"
+  },
+  {
+    "id": 4,
+    "title": "CI/CD Pipeline",
+    "subtitle": "Automated Testing Integration",
+    "description": "CI/CD pipeline for continuous testing and quality checks.",
+    "contributions": [
+      "Setup Jenkins pipeline",
+      "Integrated automated tests",
+      "Implemented quality gates"
+    ],
+    "technology": ["Jenkins", "Git", "Docker", "Shell Scripting"],
+    "links": {},
+    "featured": false,
+    "category": "DevOps"
+  },
+  {
+    "id": 5,
+    "title": "Mobile Automation",
+    "subtitle": "Android & iOS Testing",
+    "description": "Automated testing for mobile applications using Robot Framework.",
+    "contributions": [
+      "Setup Appium for mobile automation",
+      "Created test scenarios for Android & iOS",
+      "Integrated with testing cloud"
+    ],
+    "technology": ["Robot Framework", "Appium", "Android", "iOS"],
+    "links": {},
+    "featured": false,
+    "category": "Mobile"
+  },
+  {
+    "id": 6,
+    "title": "Trading Platform QA",
+    "subtitle": "FinTech Application",
+    "description": "Quality assurance for cryptocurrency trading platform.",
+    "contributions": [
+      "Manual & automated testing strategy",
+      "API testing with Postman",
+      "Security & performance testing"
+    ],
+    "technology": ["Katalon", "Postman", "Robot Framework", "JIRA"],
+    "links": {},
+    "featured": false,
+    "category": "FinTech"
+  }
+]

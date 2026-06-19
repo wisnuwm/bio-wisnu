@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "name": "Robot Framework",
+    "issuer": "TestAutomationU",
+    "year": "2021",
+    "month": "November",
+    "credentialId": "26c8af38"
+  },
+  {
+    "id": 2,
+    "name": "Automation Testing with Robot Framework",
+    "issuer": "dojobox.id",
+    "year": "2021",
+    "month": "October"
+  },
+  {
+    "id": 3,
+    "name": "Fundamentals of Automation Testing",
+    "issuer": "dojobox.id",
+    "year": "2021",
+    "month": "October"
+  },
+  {
+    "id": 4,
+    "name": "Software Quality Engineer Learning Path",
+    "issuer": "Qalam Community",
+    "year": "2021",
+    "month": "September"
+  },
+  {
+    "id": 5,
+    "name": "Continuous Integration with Jenkins",
+    "issuer": "TestAutomationU",
+    "year": "2021",
+    "month": "August",
+    "credentialId": "43828de5"
+  },
+  {
+    "id": 6,
+    "name": "Quality Assurance In The Tech Industry",
+    "issuer": "dojobox.id",
+    "year": "2021",
+    "month": "May"
+  },
+  {
+    "id": 7,
+    "name": "Exploring Service APIs through Test Automation",
+    "issuer": "TestAutomationU",
+    "year": "2021",
+    "month": "January",
+    "credentialId": "7bbf09b8"
+  },
+  {
+    "id": 8,
+    "name": "Cucumber with Java",
+    "issuer": "TestAutomationU",
+    "year": "2020",
+    "month": "December",
+    "credentialId": "49ae2240"
+  },
+  {
+    "id": 9,
+    "name": "Selenium Webdriver with Java",
+    "issuer": "TestAutomationU",
+    "year": "2020",
+    "month": "December",
+    "credentialId": "90dd871a"
+  },
+  {
+    "id": 10,
+    "name": "Webdriver IO - Next-gen testing framework for Node.js",
+    "issuer": "Udemy",
+    "year": "2020",
+    "month": "October",
+    "credentialId": "UC-8535a91e-4736-4b79-a0e8-d47dd0413f7c"
+  }
+]

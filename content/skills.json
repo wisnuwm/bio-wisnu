@@ -1,0 +1,205 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Test Automation",
+      "icon": "Bot",
+      "skills": [
+        {
+          "name": "Robot Framework",
+          "level": "Advanced",
+          "years": "4+"
+        },
+        {
+          "name": "Selenium",
+          "level": "Advanced",
+          "years": "4+"
+        },
+        {
+          "name": "Cypress",
+          "level": "Intermediate",
+          "years": "2+"
+        },
+        {
+          "name": "Appium",
+          "level": "Intermediate",
+          "years": "2+"
+        },
+        {
+          "name": "Katalon",
+          "level": "Advanced",
+          "years": "3+"
+        },
+        {
+          "name": "Playwright",
+          "level": "Intermediate",
+          "years": "1+"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "API Testing",
+      "icon": "Database",
+      "skills": [
+        {
+          "name": "Postman",
+          "level": "Advanced",
+          "years": "4+"
+        },
+        {
+          "name": "Swagger",
+          "level": "Advanced",
+          "years": "3+"
+        },
+        {
+          "name": "Rest Assured",
+          "level": "Intermediate",
+          "years": "2+"
+        },
+        {
+          "name": "Karate",
+          "level": "Intermediate",
+          "years": "2+"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Programming Languages",
+      "icon": "Code",
+      "skills": [
+        {
+          "name": "Python",
+          "level": "Advanced",
+          "years": "4+"
+        },
+        {
+          "name": "Java",
+          "level": "Advanced",
+          "years": "4+"
+        },
+        {
+          "name": "JavaScript",
+          "level": "Intermediate",
+          "years": "3+"
+        },
+        {
+          "name": "TypeScript",
+          "level": "Intermediate",
+          "years": "2+"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "CI/CD & DevOps",
+      "icon": "Workflow",
+      "skills": [
+        {
+          "name": "Jenkins",
+          "level": "Intermediate",
+          "years": "3+"
+        },
+        {
+          "name": "GitHub Actions",
+          "level": "Intermediate",
+          "years": "2+"
+        },
+        {
+          "name": "GitLab CI",
+          "level": "Intermediate",
+          "years": "2+"
+        },
+        {
+          "name": "Docker",
+          "level": "Intermediate",
+          "years": "2+"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Performance Testing",
+      "icon": "Zap",
+      "skills": [
+        {
+          "name": "JMeter",
+          "level": "Intermediate",
+          "years": "2+"
+        },
+        {
+          "name": "K6",
+          "level": "Intermediate",
+          "years": "1+"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Databases",
+      "icon": "Database",
+      "skills": [
+        {
+          "name": "MySQL",
+          "level": "Intermediate",
+          "years": "3+"
+        },
+        {
+          "name": "PostgreSQL",
+          "level": "Intermediate",
+          "years": "2+"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Testing Tools",
+      "icon": "Wrench",
+      "skills": [
+        {
+          "name": "Jira Xray",
+          "level": "Advanced",
+          "years": "3+"
+        },
+        {
+          "name": "Cucumber",
+          "level": "Advanced",
+          "years": "4+"
+        },
+        {
+          "name": "TestNG",
+          "level": "Intermediate",
+          "years": "2+"
+        },
+        {
+          "name": "JUnit",
+          "level": "Intermediate",
+          "years": "2+"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Version Control",
+      "icon": "GitBranch",
+      "skills": [
+        {
+          "name": "Git",
+          "level": "Advanced",
+          "years": "4+"
+        },
+        {
+          "name": "GitHub",
+          "level": "Advanced",
+          "years": "4+"
+        },
+        {
+          "name": "GitLab",
+          "level": "Intermediate",
+          "years": "3+"
+        }
+      ]
+    }
+  ]
+}
