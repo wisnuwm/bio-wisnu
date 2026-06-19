@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wisnuwm.github.io/sitemap.xml
+Sitemap: https://wisnuwm.github.io/bio-wisnu/sitemap.xml
